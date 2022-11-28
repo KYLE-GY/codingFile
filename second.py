@@ -6,3 +6,4 @@ C = "This is your first programming class "
 
 print(A)
 print(C)
+print(B)
